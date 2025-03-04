@@ -1,17 +1,22 @@
+import os
 import json
 import pandas as pd
+from flask import Flask, request, jsonify
 from flask_cors import CORS
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.pipeline import make_pipeline
-from flask import Flask, request, jsonify
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score
+
+# Проверяем, есть ли dataset.csv
+if not os.path.exists("dataset.csv"):
+    raise FileNotFoundError("dataset.csv not found. Make sure it is uploaded to the server.")
 
 # Загружаем датасет
 df = pd.read_csv("dataset.csv")
 
-# Разделение данных на обучающую и тестовую выборки
+# Разделение данных
 X_train, X_test, y_train, y_test = train_test_split(df["task"], df["languages"], test_size=0.2, random_state=42)
 
 # Обучение модели
@@ -25,7 +30,7 @@ predictions = pipeline.predict(X_test)
 accuracy = accuracy_score(y_test, predictions)
 print(f"Accuracy: {accuracy:.2f}")
 
-# Создание API на Flask
+# API на Flask
 app = Flask(__name__)
 CORS(app)
 
@@ -36,7 +41,6 @@ def predict():
     prediction = pipeline.predict([task])[0]
     return jsonify({"languages": prediction.split()})
 
-import os
 if __name__ == "__main__":
-    port = int(os.environ.get("PORT", 10000))  # Используем PORT от Render
-    app.run(host="0.0.0.0", port=port, debug=True)
+    port = int(os.environ.get("PORT", 10000))
+    app.run(host="0.0.0.0", port=port)
