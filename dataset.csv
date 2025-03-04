@@ -1,0 +1,301 @@
+task,languages
+Создание веб-сайта,Django CSS React HTML JavaScript
+Разработка мобильного приложения,Flutter React Native Kotlin Swift
+Анализ данных,Python R Matplotlib NumPy Pandas
+Создание игры,Godot Unreal Engine C++ C# Unity
+Разработка бэкенда,Node.js Python Java Flask Spring Django
+Разработка AI-моделей,PyTorch Scikit-learn Keras TensorFlow Python
+Создание API,Flask GraphQL Node.js FastAPI Django
+Разработка IoT-приложений,C C++ MicroPython Embedded C Rust
+Автоматизация процессов,Ansible Bash Terraform Python PowerShell
+Разработка блокчейн-приложений,Go Solidity Rust Ethereum Hyperledger
+Создание веб-сайта,HTML CSS JavaScript Django React
+Разработка мобильного приложения,Kotlin Flutter Swift React Native
+Анализ данных,NumPy Python Matplotlib Pandas R
+Создание игры,C# Unreal Engine C++ Unity Godot
+Разработка бэкенда,Flask Spring Django Node.js Java Python
+Разработка AI-моделей,Keras PyTorch TensorFlow Python Scikit-learn
+Создание API,FastAPI Flask Django Node.js GraphQL
+Разработка IoT-приложений,MicroPython Embedded C C C++ Rust
+Автоматизация процессов,Terraform Ansible Python PowerShell Bash
+Разработка блокчейн-приложений,Go Solidity Rust Hyperledger Ethereum
+Создание веб-сайта,JavaScript CSS HTML React Django
+Разработка мобильного приложения,Swift Flutter React Native Kotlin
+Анализ данных,Pandas NumPy Matplotlib Python R
+Создание игры,C# Unity C++ Unreal Engine Godot
+Разработка бэкенда,Spring Java Node.js Python Flask Django
+Разработка AI-моделей,Python TensorFlow PyTorch Scikit-learn Keras
+Создание API,Django Flask Node.js GraphQL FastAPI
+Разработка IoT-приложений,C++ Embedded C C MicroPython Rust
+Автоматизация процессов,Terraform Ansible Python Bash PowerShell
+Разработка блокчейн-приложений,Hyperledger Go Solidity Rust Ethereum
+Создание веб-сайта,Django CSS HTML JavaScript React
+Разработка мобильного приложения,Flutter React Native Kotlin Swift
+Анализ данных,NumPy Python Matplotlib Pandas R
+Создание игры,Unity Godot C++ C# Unreal Engine
+Разработка бэкенда,Spring Python Java Flask Django Node.js
+Разработка AI-моделей,Scikit-learn Keras Python TensorFlow PyTorch
+Создание API,Flask Django FastAPI GraphQL Node.js
+Разработка IoT-приложений,C++ Embedded C Rust C MicroPython
+Автоматизация процессов,Terraform Python PowerShell Ansible Bash
+Разработка блокчейн-приложений,Solidity Ethereum Hyperledger Go Rust
+Создание веб-сайта,React CSS JavaScript Django HTML
+Разработка мобильного приложения,Swift Flutter React Native Kotlin
+Анализ данных,Pandas Matplotlib Python R NumPy
+Создание игры,Unity Godot C++ C# Unreal Engine
+Разработка бэкенда,Django Flask Java Python Spring Node.js
+Разработка AI-моделей,Python TensorFlow Scikit-learn PyTorch Keras
+Создание API,GraphQL Django Flask Node.js FastAPI
+Разработка IoT-приложений,C MicroPython C++ Embedded C Rust
+Автоматизация процессов,Bash PowerShell Ansible Python Terraform
+Разработка блокчейн-приложений,Solidity Hyperledger Ethereum Go Rust
+Создание веб-сайта,CSS HTML Django JavaScript React
+Разработка мобильного приложения,Swift Flutter React Native Kotlin
+Анализ данных,Python NumPy R Matplotlib Pandas
+Создание игры,Unreal Engine Unity Godot C# C++
+Разработка бэкенда,Spring Flask Django Node.js Java Python
+Разработка AI-моделей,Python Keras TensorFlow PyTorch Scikit-learn
+Создание API,GraphQL Node.js FastAPI Flask Django
+Разработка IoT-приложений,MicroPython Embedded C C++ Rust C
+Автоматизация процессов,Terraform Python Bash Ansible PowerShell
+Разработка блокчейн-приложений,Ethereum Hyperledger Go Solidity Rust
+Создание веб-сайта,CSS JavaScript HTML Django React
+Разработка мобильного приложения,Flutter Kotlin React Native Swift
+Анализ данных,R Matplotlib Pandas Python NumPy
+Создание игры,Unreal Engine Godot C++ C# Unity
+Разработка бэкенда,Spring Java Node.js Django Flask Python
+Разработка AI-моделей,TensorFlow PyTorch Scikit-learn Python Keras
+Создание API,Flask FastAPI Django Node.js GraphQL
+Разработка IoT-приложений,MicroPython C++ Rust C Embedded C
+Автоматизация процессов,Ansible PowerShell Terraform Bash Python
+Разработка блокчейн-приложений,Go Ethereum Solidity Rust Hyperledger
+Создание веб-сайта,CSS React HTML JavaScript Django
+Разработка мобильного приложения,Kotlin React Native Swift Flutter
+Анализ данных,Python Matplotlib NumPy Pandas R
+Создание игры,C++ Godot Unity Unreal Engine C#
+Разработка бэкенда,Node.js Flask Spring Java Python Django
+Разработка AI-моделей,Python TensorFlow Keras Scikit-learn PyTorch
+Создание API,Django GraphQL Flask Node.js FastAPI
+Разработка IoT-приложений,MicroPython C Rust C++ Embedded C
+Автоматизация процессов,Ansible PowerShell Bash Terraform Python
+Разработка блокчейн-приложений,Go Hyperledger Rust Solidity Ethereum
+Создание веб-сайта,JavaScript Django React HTML CSS
+Разработка мобильного приложения,React Native Swift Kotlin Flutter
+Анализ данных,Python Pandas R NumPy Matplotlib
+Создание игры,C# C++ Unity Godot Unreal Engine
+Разработка бэкенда,Python Java Django Spring Node.js Flask
+Разработка AI-моделей,Scikit-learn Python Keras PyTorch TensorFlow
+Создание API,Django FastAPI Flask GraphQL Node.js
+Разработка IoT-приложений,C Embedded C MicroPython Rust C++
+Автоматизация процессов,Bash Python Terraform PowerShell Ansible
+Разработка блокчейн-приложений,Go Ethereum Rust Hyperledger Solidity
+Создание веб-сайта,HTML Django React CSS JavaScript
+Разработка мобильного приложения,Flutter React Native Kotlin Swift
+Анализ данных,NumPy Pandas Python Matplotlib R
+Создание игры,Unreal Engine C# Unity C++ Godot
+Разработка бэкенда,Django Python Node.js Spring Java Flask
+Разработка AI-моделей,Keras Python Scikit-learn TensorFlow PyTorch
+Создание API,GraphQL FastAPI Node.js Django Flask
+Разработка IoT-приложений,MicroPython C Embedded C Rust C++
+Автоматизация процессов,Terraform PowerShell Python Ansible Bash
+Разработка блокчейн-приложений,Hyperledger Solidity Go Ethereum Rust
+Создание веб-сайта,JavaScript CSS React Django HTML
+Разработка мобильного приложения,Flutter Kotlin Swift React Native
+Анализ данных,Matplotlib NumPy Pandas Python R
+Создание игры,C++ Unity Unreal Engine Godot C#
+Разработка бэкенда,Node.js Spring Java Python Flask Django
+Разработка AI-моделей,TensorFlow Keras PyTorch Scikit-learn Python
+Создание API,Django Flask Node.js FastAPI GraphQL
+Разработка IoT-приложений,C Embedded C C++ Rust MicroPython
+Автоматизация процессов,Python PowerShell Terraform Ansible Bash
+Разработка блокчейн-приложений,Solidity Ethereum Go Rust Hyperledger
+Создание веб-сайта,HTML CSS React Django JavaScript
+Разработка мобильного приложения,Flutter Swift Kotlin React Native
+Анализ данных,Python Pandas R NumPy Matplotlib
+Создание игры,Godot C# C++ Unreal Engine Unity
+Разработка бэкенда,Flask Spring Node.js Django Java Python
+Разработка AI-моделей,PyTorch TensorFlow Python Keras Scikit-learn
+Создание API,GraphQL Flask Node.js Django FastAPI
+Разработка IoT-приложений,C MicroPython Rust C++ Embedded C
+Автоматизация процессов,Bash Python Terraform Ansible PowerShell
+Разработка блокчейн-приложений,Go Solidity Hyperledger Ethereum Rust
+Создание веб-сайта,JavaScript React CSS Django HTML
+Разработка мобильного приложения,Kotlin React Native Swift Flutter
+Анализ данных,Python NumPy Matplotlib Pandas R
+Создание игры,Unity C# Unreal Engine Godot C++
+Разработка бэкенда,Django Python Node.js Flask Java Spring
+Разработка AI-моделей,TensorFlow PyTorch Keras Scikit-learn Python
+Создание API,Node.js Django GraphQL Flask FastAPI
+Разработка IoT-приложений,MicroPython C++ Embedded C Rust C
+Автоматизация процессов,Bash Terraform PowerShell Ansible Python
+Разработка блокчейн-приложений,Rust Ethereum Hyperledger Solidity Go
+Создание веб-сайта,Django HTML React JavaScript CSS
+Разработка мобильного приложения,Flutter React Native Kotlin Swift
+Анализ данных,R Matplotlib Pandas NumPy Python
+Создание игры,Unreal Engine Unity Godot C++ C#
+Разработка бэкенда,Spring Django Python Java Node.js Flask
+Разработка AI-моделей,TensorFlow Scikit-learn PyTorch Keras Python
+Создание API,Django GraphQL Flask FastAPI Node.js
+Разработка IoT-приложений,Embedded C Rust C++ C MicroPython
+Автоматизация процессов,PowerShell Terraform Python Ansible Bash
+Разработка блокчейн-приложений,Rust Hyperledger Solidity Ethereum Go
+Создание веб-сайта,JavaScript HTML CSS Django React
+Разработка мобильного приложения,Kotlin Flutter Swift React Native
+Анализ данных,Matplotlib R Python NumPy Pandas
+Создание игры,C# Unreal Engine Godot Unity C++
+Разработка бэкенда,Python Node.js Java Spring Flask Django
+Разработка AI-моделей,TensorFlow Scikit-learn PyTorch Keras Python
+Создание API,FastAPI Django Flask Node.js GraphQL
+Разработка IoT-приложений,Embedded C C++ MicroPython C Rust
+Автоматизация процессов,PowerShell Ansible Bash Terraform Python
+Разработка блокчейн-приложений,Ethereum Go Solidity Rust Hyperledger
+Создание веб-сайта,HTML Django React CSS JavaScript
+Разработка мобильного приложения,Swift Flutter React Native Kotlin
+Анализ данных,NumPy Python Pandas Matplotlib R
+Создание игры,Unreal Engine Godot Unity C# C++
+Разработка бэкенда,Python Java Node.js Spring Flask Django
+Разработка AI-моделей,PyTorch Python Scikit-learn TensorFlow Keras
+Создание API,FastAPI Django GraphQL Flask Node.js
+Разработка IoT-приложений,Rust C++ C MicroPython Embedded C
+Автоматизация процессов,PowerShell Terraform Ansible Bash Python
+Разработка блокчейн-приложений,Hyperledger Go Rust Solidity Ethereum
+Создание веб-сайта,HTML JavaScript Django React CSS
+Разработка мобильного приложения,Kotlin Swift React Native Flutter
+Анализ данных,Matplotlib Pandas Python R NumPy
+Создание игры,C# Unity Unreal Engine C++ Godot
+Разработка бэкенда,Django Java Flask Node.js Python Spring
+Разработка AI-моделей,Keras TensorFlow Scikit-learn PyTorch Python
+Создание API,GraphQL Django FastAPI Node.js Flask
+Разработка IoT-приложений,C Embedded C C++ Rust MicroPython
+Автоматизация процессов,Ansible PowerShell Python Bash Terraform
+Разработка блокчейн-приложений,Hyperledger Solidity Rust Go Ethereum
+Создание веб-сайта,CSS Django React HTML JavaScript
+Разработка мобильного приложения,Flutter React Native Kotlin Swift
+Анализ данных,Pandas Matplotlib R NumPy Python
+Создание игры,C# Godot Unity Unreal Engine C++
+Разработка бэкенда,Python Node.js Java Spring Django Flask
+Разработка AI-моделей,Keras PyTorch TensorFlow Python Scikit-learn
+Создание API,Node.js GraphQL Flask Django FastAPI
+Разработка IoT-приложений,MicroPython C++ C Rust Embedded C
+Автоматизация процессов,Python PowerShell Bash Terraform Ansible
+Разработка блокчейн-приложений,Go Solidity Rust Hyperledger Ethereum
+Создание веб-сайта,JavaScript CSS Django React HTML
+Разработка мобильного приложения,Kotlin Flutter Swift React Native
+Анализ данных,Python R NumPy Pandas Matplotlib
+Создание игры,Godot Unity C++ C# Unreal Engine
+Разработка бэкенда,Python Java Node.js Django Flask Spring
+Разработка AI-моделей,PyTorch TensorFlow Python Scikit-learn Keras
+Создание API,GraphQL Node.js Flask FastAPI Django
+Разработка IoT-приложений,C Embedded C MicroPython Rust C++
+Автоматизация процессов,Ansible Terraform PowerShell Bash Python
+Разработка блокчейн-приложений,Go Rust Solidity Ethereum Hyperledger
+Создание веб-сайта,CSS Django JavaScript React HTML
+Разработка мобильного приложения,Flutter Kotlin Swift React Native
+Анализ данных,Python Matplotlib NumPy R Pandas
+Создание игры,C++ Unreal Engine C# Godot Unity
+Разработка бэкенда,Django Java Python Flask Node.js Spring
+Разработка AI-моделей,Scikit-learn TensorFlow Keras Python PyTorch
+Создание API,FastAPI Django Node.js Flask GraphQL
+Разработка IoT-приложений,Embedded C Rust C C++ MicroPython
+Автоматизация процессов,Ansible Python PowerShell Bash Terraform
+Разработка блокчейн-приложений,Solidity Hyperledger Rust Ethereum Go
+Создание веб-сайта,HTML CSS React Django JavaScript
+Разработка мобильного приложения,React Native Swift Kotlin Flutter
+Анализ данных,Pandas R Matplotlib Python NumPy
+Создание игры,C++ Godot Unreal Engine Unity C#
+Разработка бэкенда,Node.js Spring Java Python Flask Django
+Разработка AI-моделей,Scikit-learn Keras PyTorch TensorFlow Python
+Создание API,GraphQL Flask Django Node.js FastAPI
+Разработка IoT-приложений,Rust C++ C Embedded C MicroPython
+Автоматизация процессов,Bash Python PowerShell Terraform Ansible
+Разработка блокчейн-приложений,Hyperledger Solidity Ethereum Rust Go
+Создание веб-сайта,HTML Django CSS JavaScript React
+Разработка мобильного приложения,Swift Flutter Kotlin React Native
+Анализ данных,Pandas NumPy R Python Matplotlib
+Создание игры,Godot Unreal Engine C# Unity C++
+Разработка бэкенда,Spring Flask Node.js Django Java Python
+Разработка AI-моделей,Python TensorFlow Scikit-learn Keras PyTorch
+Создание API,Node.js Django Flask GraphQL FastAPI
+Разработка IoT-приложений,MicroPython Embedded C Rust C C++
+Автоматизация процессов,Bash Ansible Python PowerShell Terraform
+Разработка блокчейн-приложений,Ethereum Go Hyperledger Solidity Rust
+Создание веб-сайта,CSS HTML Django React JavaScript
+Разработка мобильного приложения,Swift Kotlin Flutter React Native
+Анализ данных,Matplotlib Pandas R NumPy Python
+Создание игры,Unity Godot C++ C# Unreal Engine
+Разработка бэкенда,Spring Flask Node.js Python Django Java
+Разработка AI-моделей,Scikit-learn PyTorch Keras TensorFlow Python
+Создание API,FastAPI GraphQL Node.js Flask Django
+Разработка IoT-приложений,Rust C Embedded C C++ MicroPython
+Автоматизация процессов,PowerShell Python Terraform Ansible Bash
+Разработка блокчейн-приложений,Rust Solidity Go Ethereum Hyperledger
+Создание веб-сайта,React JavaScript CSS Django HTML
+Разработка мобильного приложения,Swift Kotlin React Native Flutter
+Анализ данных,Python Pandas R NumPy Matplotlib
+Создание игры,Unity C++ Godot Unreal Engine C#
+Разработка бэкенда,Spring Java Flask Django Python Node.js
+Разработка AI-моделей,PyTorch TensorFlow Scikit-learn Python Keras
+Создание API,Node.js Flask Django GraphQL FastAPI
+Разработка IoT-приложений,C++ Embedded C MicroPython Rust C
+Автоматизация процессов,PowerShell Bash Terraform Python Ansible
+Разработка блокчейн-приложений,Go Hyperledger Solidity Rust Ethereum
+Создание веб-сайта,Django JavaScript CSS HTML React
+Разработка мобильного приложения,Swift React Native Flutter Kotlin
+Анализ данных,R Matplotlib Pandas NumPy Python
+Создание игры,Unity C++ C# Godot Unreal Engine
+Разработка бэкенда,Django Spring Python Java Node.js Flask
+Разработка AI-моделей,Keras Python PyTorch TensorFlow Scikit-learn
+Создание API,FastAPI Flask GraphQL Node.js Django
+Разработка IoT-приложений,C Rust Embedded C MicroPython C++
+Автоматизация процессов,Bash Terraform Ansible Python PowerShell
+Разработка блокчейн-приложений,Rust Ethereum Go Hyperledger Solidity
+Создание веб-сайта,CSS HTML Django JavaScript React
+Разработка мобильного приложения,Kotlin React Native Swift Flutter
+Анализ данных,R Python Pandas NumPy Matplotlib
+Создание игры,Godot C# Unreal Engine Unity C++
+Разработка бэкенда,Java Python Django Flask Spring Node.js
+Разработка AI-моделей,Scikit-learn Keras Python PyTorch TensorFlow
+Создание API,FastAPI Flask GraphQL Django Node.js
+Разработка IoT-приложений,Embedded C MicroPython C++ C Rust
+Автоматизация процессов,Bash Python Ansible Terraform PowerShell
+Разработка блокчейн-приложений,Ethereum Go Rust Solidity Hyperledger
+Создание веб-сайта,Django CSS JavaScript HTML React
+Разработка мобильного приложения,Flutter Kotlin React Native Swift
+Анализ данных,R Matplotlib Pandas NumPy Python
+Создание игры,Unity Godot C# Unreal Engine C++
+Разработка бэкенда,Java Flask Django Python Node.js Spring
+Разработка AI-моделей,Scikit-learn Python Keras TensorFlow PyTorch
+Создание API,Flask FastAPI Node.js GraphQL Django
+Разработка IoT-приложений,Rust C MicroPython Embedded C C++
+Автоматизация процессов,Terraform PowerShell Python Ansible Bash
+Разработка блокчейн-приложений,Rust Hyperledger Solidity Go Ethereum
+Создание веб-сайта,JavaScript HTML CSS React Django
+Разработка мобильного приложения,Flutter Swift React Native Kotlin
+Анализ данных,Pandas Python Matplotlib NumPy R
+Создание игры,C# Unreal Engine C++ Godot Unity
+Разработка бэкенда,Java Python Node.js Spring Flask Django
+Разработка AI-моделей,PyTorch TensorFlow Python Keras Scikit-learn
+Создание API,FastAPI GraphQL Node.js Flask Django
+Разработка IoT-приложений,Embedded C C++ C MicroPython Rust
+Автоматизация процессов,Python PowerShell Terraform Ansible Bash
+Разработка блокчейн-приложений,Ethereum Hyperledger Rust Solidity Go
+Создание веб-сайта,CSS Django React HTML JavaScript
+Разработка мобильного приложения,Kotlin React Native Flutter Swift
+Анализ данных,NumPy R Python Matplotlib Pandas
+Создание игры,C++ Godot Unity C# Unreal Engine
+Разработка бэкенда,Python Flask Java Node.js Django Spring
+Разработка AI-моделей,Keras Python TensorFlow Scikit-learn PyTorch
+Создание API,FastAPI Node.js GraphQL Flask Django
+Разработка IoT-приложений,C++ MicroPython C Rust Embedded C
+Автоматизация процессов,PowerShell Terraform Ansible Python Bash
+Разработка блокчейн-приложений,Go Hyperledger Solidity Rust Ethereum
+Создание веб-сайта,CSS Django React JavaScript HTML
+Разработка мобильного приложения,Kotlin React Native Swift Flutter
+Анализ данных,R Python Pandas NumPy Matplotlib
+Создание игры,C++ C# Unity Godot Unreal Engine
+Разработка бэкенда,Spring Python Flask Node.js Java Django
+Разработка AI-моделей,Keras Scikit-learn TensorFlow Python PyTorch
+Создание API,FastAPI GraphQL Node.js Django Flask
+Разработка IoT-приложений,Embedded C Rust C C++ MicroPython
+Автоматизация процессов,Python Terraform Bash Ansible PowerShell
+Разработка блокчейн-приложений,Go Ethereum Hyperledger Rust Solidity
